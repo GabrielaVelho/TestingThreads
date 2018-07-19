@@ -1,0 +1,6 @@
+c:\users\alu201423441\documents\visual studio 2015\Projects\TesteThreads\TesteThreads\bin\Debug\TesteThreads.exe.config
+c:\users\alu201423441\documents\visual studio 2015\Projects\TesteThreads\TesteThreads\bin\Debug\TesteThreads.exe
+c:\users\alu201423441\documents\visual studio 2015\Projects\TesteThreads\TesteThreads\bin\Debug\TesteThreads.pdb
+c:\users\alu201423441\documents\visual studio 2015\Projects\TesteThreads\TesteThreads\obj\Debug\TesteThreads.csprojResolveAssemblyReference.cache
+c:\users\alu201423441\documents\visual studio 2015\Projects\TesteThreads\TesteThreads\obj\Debug\TesteThreads.exe
+c:\users\alu201423441\documents\visual studio 2015\Projects\TesteThreads\TesteThreads\obj\Debug\TesteThreads.pdb
